@@ -134,33 +134,32 @@
   - レストランやショップ
 - 参考 URL: https://www.sanrio.com/blogs/hellokittycafe/hello-kitty-and-friends-cafe-sanrio-smile-shop
 
-### 昼食（13:00-14:30）
+### 休憩＆ランチ（13:00-14:30）
 
-#### ダウンタウン LA のレストラン
+#### Universal CityWalk での休憩
 
-- Universal CityWalk から Uber でダウンタウン LA へ（約 45 分、$30-35）
-- おすすめレストラン：
-  - グランドセントラルマーケット（フードコート）
-    - 参考 URL: https://grandcentralmarket.com/
-  - リトルトーキョー（日本食）
-    - 参考 URL: https://little.tokyo/
-  - クラフト＆バイン（Craft & Vine）
-    - 参考 URL: https://www.craftandvine.com/
-- 予算：$30-40/人
+- おすすめスポット：
+  - ハードロックカフェ（アメリカン料理）
+    - 参考 URL: https://www.hardrockcafe.com/location/hollywood/
+  - トニーローマズ（アメリカンバーベキュー）
+    - 参考 URL: https://www.tonyromas.com/
+  - バッファローワイルドウィングス（アメリカンスポーツバー）
+    - 参考 URL: https://www.buffalowildwings.com/
+- 予算：$25-35/人
 - アクティビティ：
-  - ダウンタウン LA の散策
-  - ショッピング
+  - 休憩
+  - アメリカン料理を楽しむ
+  - Universal CityWalk の散策
 - 周辺のおすすめスポット：
-  - グランドセントラルマーケット（フードコート）
-  - リトルトーキョー（日本食）
-  - ダウンタウン LA の夜景
-    - 参考 URL: https://www.discoverlosangeles.com/things-to-do/downtown-los-angeles
+  - Universal CityWalk のショップ
+  - フォトスポット
+  - エンターテイメント施設
 
-### 午後（14:30-18:00）
+### 午後（14:30-17:30）
 
 #### ユニバーサルスタジオハリウッド スタジオツアー
 
-- ダウンタウン LA から Uber でユニバーサルスタジオハリウッドへ（約 45 分、$30-35）
+- Universal CityWalk から徒歩でユニバーサルスタジオハリウッドへ
 - スタジオツアー：
   - 映画やテレビ番組の撮影現場を見学
   - バックロットツアー（約 60 分）
@@ -170,40 +169,53 @@
 - アクティビティ：
   - スタジオツアー参加
   - 写真撮影
-  - ショッピング
+  - Universal CityWalk でのショッピング
 - 周辺のおすすめスポット：
   - Universal CityWalk（ショッピングセンター）
     - 参考 URL: https://www.citywalkhollywood.com/
   - レストランやショップ
 - 参考 URL: https://www.universalstudioshollywood.com/web/en/us/theme-functions/studio-tour
 
-### 夕食（18:00-20:00）
+### 夕食（17:00-19:00）
 
-#### ホール・フーズ・マーケット
+#### ダウンタウン LA のレストラン
 
-- ユニバーサルスタジオハリウッドから Uber でホール・フーズ・マーケットへ（約 45 分、$30-35）
-- おすすめメニュー：
-  - オーガニックフード
-  - シーフード
-  - 野菜
-- 予算：$40-50/人
+- ユニバーサルスタジオハリウッドから Uber でダウンタウン LA へ（約 45 分、$30-35）
+- おすすめレストラン：
+  - クラフト＆バイン（Craft & Vine）
+    - 高級ステーキとワイン
+    - シェフの特別メニュー
+    - ダウンタウン LA の中心部に立地
+    - 参考 URL: https://www.craftandvine.com/
+  - グランドセントラルマーケット内のレストラン
+    - バーベキューレストラン（赤身肉）
+    - シーフードスタンド
+    - 地元の雰囲気を楽しめる
+    - 参考 URL: https://grandcentralmarket.com/
+  - リトルトーキョー周辺のレストラン
+    - 和風シーフード料理
+    - 地元の雰囲気
+    - 参考 URL: https://little.tokyo/
+  - ダウンタウンのステーキハウス
+    - 高級ステーキ
+    - クラシックな雰囲気
+    - 参考 URL: https://www.discoverlosangeles.com/things-to-do/steakhouses-los-angeles
+- 予算：$50-60/人
 - アクティビティ：
-  - ホール・フーズ・マーケットの散策
+  - ダウンタウン LA の散策
   - ショッピング
 - 周辺のおすすめスポット：
-  - ホール・フーズ・マーケット（オーガニックフード）
-    - 参考 URL: https://www.wholefoodsmarket.com/
-  - レストランやショップ
+  - グランドセントラルマーケット（フードコート）
+  - リトルトーキョー（日本食）
+  - ダウンタウン LA の夜景
+    - 参考 URL: https://www.discoverlosangeles.com/things-to-do/downtown-los-angeles
 
-### 夜（20:00-23:00）
+### 夜（19:00-23:00）
 
 #### ダウンタウン LA のパブ巡り
 
-- ホール・フーズ・マーケットから Uber でダウンタウン LA へ（約 30 分、$25-30）
+- 夕食後、徒歩でダウンタウン LA のパブへ
 - おすすめパブ：
-  - クラフト＆バイン（Craft & Vine）
-    - クラフトビールとワインが充実
-    - 参考 URL: https://www.craftandvine.com/
   - セブグランド（Seven Grand）
     - ウィスキーバー
     - 参考 URL: https://www.sevengrand.la/
