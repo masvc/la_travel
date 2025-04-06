@@ -2,13 +2,14 @@
 
 ## プラン概要
 
-朝早くアナハイムのディズニーホテルから出発し、ウェスティンボナベンチャーホテルに荷物を預けてから、サンタモニカビーチでサンライズを楽しみ、シーフードの朝食を取ります。その後、Hello Kitty and Friends Cafe & Sanrio Smile Shop でお菓子を楽しみ、ユニバーサルスタジオハリウッドのスタジオツアーを体験します。夜はダウンタウンのパブで地元の雰囲気を楽しみます。一日を通して様々な体験ができる充実したプランです。
+朝早くアナハイムのディズニーホテルから出発し、ウェスティンボナベンチャーホテルに荷物を預けてから、サンタモニカビーチでサンライズを楽しみ、ファーマーズマーケットで朝食を取ります。その後、Hello Kitty and Friends Cafe & Sanrio Smile Shop でお菓子を楽しみ、ユニバーサルスタジオハリウッドのスタジオツアーを体験します。夜はダウンタウンのパブで地元の雰囲気を楽しみます。一日を通して様々な体験ができる充実したプランです。
 
 ## 基本情報
 
-- 予算：$200-250/人
-- 所要時間：約 14 時間
-- 移動手段：Uber/Lyft
+- 予算：$300-350/人（移動費含む）
+- 所要時間：約 16 時間
+- 移動手段：Uber/Lyft（交通渋滞を考慮して余裕を持った移動時間を設定）
+- 天候対応：雨天時は代替プランあり（後述）
 
 ## 詳細スケジュール
 
@@ -16,13 +17,16 @@
 
 #### ウェスティンボナベンチャーホテル
 
-- アナハイムのディズニーホテルから Uber でウェスティンボナベンチャーホテルへ（約 30 分、$25-30）
+- アナハイムのディズニーホテルから Uber でウェスティンボナベンチャーホテルへ（約 45 分、$30-35）
+  - 出発時間：5:00（日の出前に到着できるように）
 - チェックイン時間：15:00
 - 荷物預け：フロントデスクで預かってもらえます
+- 休憩時間：30 分程度（荷物預けと準備）
 
 #### サンタモニカビーチ
 
-- ウェスティンボナベンチャーホテルから Uber でサンタモニカビーチへ（約 30 分、$25-30）
+- ウェスティンボナベンチャーホテルから Uber でサンタモニカビーチへ（約 45 分、$30-35）
+- 到着時間：7:00 頃
 - 見どころ：
   - サンライズ鑑賞（日の出は約 6:15 頃）
   - ビーチウォーキング
@@ -30,43 +34,81 @@
   - サーファーたちの朝の練習風景
 - アクティビティ：
   - ビーチヨガ（地元のヨガクラスに参加可能）
+    - 参考 URL: https://www.yogascape.com/
   - サーフィンレッスン（事前予約が必要）
+    - 参考 URL: https://www.surfline.com/surf-schools/santa-monica
   - ビーチサイクリング（レンタル自転車あり）
+    - 参考 URL: https://www.santamonica.com/things-to-do/santa-monica-bike-center/
 - 周辺のおすすめスポット：
   - パリセーズパーク（絶景ビューポイント）
+    - 参考 URL: https://www.santamonica.com/things-to-do/parks/palisades-park/
   - サンタモニカステップス（歴史的な階段）
+    - 参考 URL: https://www.santamonica.com/things-to-do/santa-monica-stairs/
   - サンタモニカモール（ショッピングセンター）
+    - 参考 URL: https://www.santamonicaplace.com/
 - 参考 URL: https://www.santamonica.com/things-to-do/santa-monica-beach/
 
-### 朝食（8:00-9:30）
+### 朝食（8:30-10:30）
 
-#### シーフードレストラン
+#### サンタモニカファーマーズマーケット
 
-- サンタモニカビーチ近くのシーフードレストラン
-- おすすめレストラン：
-  - The Albright（シーフード）
-  - Blue Plate Oysterette（シーフード）
-  - The Lobster（シーフード）
-  - Water Grill（シーフード）
-- 予算：$40-50/人
+- サンタモニカビーチから徒歩でファーマーズマーケットへ（約 5 分）
+- 開催時間：日曜日 8:30-13:30
+- 場所：サンタモニカのメインストリート
+- 特徴：
+  - 地元の新鮮な野菜や果物
+  - ベーカリー商品
+  - 朝食スタンド
+  - アートクラフト
+  - ローカルフード
+- 予算：$20-30/人
 - おすすめメニュー：
-  - オイスターバー
-  - シーフードプラター
-  - 地元産野菜のサイドディッシュ
+  - フレッシュベーカリーのパン
+  - 地元産フルーツ
+  - 朝食スタンドの料理
+  - コーヒーやスムージー
 - アクティビティ：
-  - ビーチビューでの食事
-  - シーフードの試食
+  - 地元の雰囲気を楽しむ
+  - 朝食の試食
+  - アートクラフトの見学
 - 周辺のおすすめスポット：
   - サンタモニカビーチ（ビーチでのんびり）
   - サンタモニカピア（遊園地）
+    - 参考 URL: https://www.santamonicapier.org/
   - サンタモニカプレイス（ショッピング）
-- 参考 URL: https://www.blueplateoysterette.com/
+    - 参考 URL: https://www.santamonicaplace.com/
+- 参考 URL: https://www.smgov.net/portals/farmersmarket/
 
-### 午前（9:30-12:00）
+##### その他の近隣ファーマーズマーケット
+
+###### ベニスビーチファーマーズマーケット（金曜日）
+
+- 場所：ベニスビーチ
+- 時間：朝 7:00 から午前 11:00 まで
+- 特徴：
+  - オーガニック食材
+  - 地元の特産品
+  - 朝食スタンド
+  - アートクラフト
+- 参考 URL: https://www.venicefarmersmarket.org/
+
+###### マリナデルレイファーマーズマーケット（火曜日）
+
+- 場所：マリナデルレイ
+- 時間：朝 9:00 から午後 2:00 まで
+- 特徴：
+  - シーフード
+  - 新鮮な野菜
+  - 地元の特産品
+  - ベーカリー商品
+- 参考 URL: https://www.marinadelreyfarmersmarket.com/
+
+### 午前（10:30-13:00）
 
 #### Hello Kitty and Friends Cafe & Sanrio Smile Shop
 
-- サンタモニカビーチから Uber で Universal CityWalk へ（約 30 分、$25-30）
+- サンタモニカビーチから Uber で Universal CityWalk へ（約 60 分、$35-40）
+  - 交通渋滞を考慮して余裕を持った移動時間を設定
 - 住所：100 Universal City Plaza, Universal City, CA 91608
 - 営業時間：
   - 毎日：11:00-21:00
@@ -86,68 +128,78 @@
   - カスタムデザートの注文
 - 周辺のおすすめスポット：
   - Universal CityWalk（ショッピングセンター）
+    - 参考 URL: https://www.citywalkhollywood.com/
   - ユニバーサルスタジオハリウッド
+    - 参考 URL: https://www.universalstudioshollywood.com/
   - レストランやショップ
 - 参考 URL: https://www.sanrio.com/blogs/hellokittycafe/hello-kitty-and-friends-cafe-sanrio-smile-shop
 
-### 昼食（12:00-13:30）
+### 昼食（13:00-14:30）
 
-#### Universal CityWalk のレストラン
+#### ダウンタウン LA のレストラン
 
-- Universal CityWalk 内のレストランで食事
+- Universal CityWalk から Uber でダウンタウン LA へ（約 45 分、$30-35）
 - おすすめレストラン：
-  - VIVO Italian Kitchen（イタリアン）
-  - Bubba Gump Shrimp Co.（シーフード）
-  - Hard Rock Cafe（アメリカン）
+  - グランドセントラルマーケット（フードコート）
+    - 参考 URL: https://grandcentralmarket.com/
+  - リトルトーキョー（日本食）
+    - 参考 URL: https://little.tokyo/
+  - クラフト＆バイン（Craft & Vine）
+    - 参考 URL: https://www.craftandvine.com/
 - 予算：$30-40/人
 - アクティビティ：
-  - Universal CityWalk の散策
+  - ダウンタウン LA の散策
   - ショッピング
 - 周辺のおすすめスポット：
-  - Universal CityWalk（ショッピングセンター）
-  - ユニバーサルスタジオハリウッド
-  - レストランやショップ
+  - グランドセントラルマーケット（フードコート）
+  - リトルトーキョー（日本食）
+  - ダウンタウン LA の夜景
+    - 参考 URL: https://www.discoverlosangeles.com/things-to-do/downtown-los-angeles
 
-### 午後（13:30-17:00）
+### 午後（14:30-18:00）
 
 #### ユニバーサルスタジオハリウッド スタジオツアー
 
-- Universal CityWalk から徒歩でユニバーサルスタジオハリウッドへ
+- ダウンタウン LA から Uber でユニバーサルスタジオハリウッドへ（約 45 分、$30-35）
 - スタジオツアー：
   - 映画やテレビ番組の撮影現場を見学
   - バックロットツアー（約 60 分）
   - 予算：$69/人
+  - 予約方法：オンライン予約必須（2 週間前から予約可能）
+    - 予約 URL: https://www.universalstudioshollywood.com/web/en/us/tickets-packages/studio-tour
 - アクティビティ：
   - スタジオツアー参加
   - 写真撮影
   - ショッピング
 - 周辺のおすすめスポット：
   - Universal CityWalk（ショッピングセンター）
+    - 参考 URL: https://www.citywalkhollywood.com/
   - レストランやショップ
 - 参考 URL: https://www.universalstudioshollywood.com/web/en/us/theme-functions/studio-tour
 
-### 夕食（17:00-19:00）
+### 夕食（18:00-20:00）
 
-#### Universal CityWalk のレストラン
+#### ホール・フーズ・マーケット
 
-- ユニバーサルスタジオハリウッドから徒歩で Universal CityWalk へ
-- おすすめレストラン：
-  - VIVO Italian Kitchen（イタリアン）
-  - Bubba Gump Shrimp Co.（シーフード）
-  - Hard Rock Cafe（アメリカン）
+- ユニバーサルスタジオハリウッドから Uber でホール・フーズ・マーケットへ（約 45 分、$30-35）
+- おすすめメニュー：
+  - オーガニックフード
+  - シーフード
+  - 野菜
 - 予算：$40-50/人
 - アクティビティ：
-  - Universal CityWalk の散策
+  - ホール・フーズ・マーケットの散策
   - ショッピング
 - 周辺のおすすめスポット：
-  - Universal CityWalk（ショッピングセンター）
+  - ホール・フーズ・マーケット（オーガニックフード）
+    - 参考 URL: https://www.wholefoodsmarket.com/
   - レストランやショップ
 
-### 夜（19:00-22:00）
+### 夜（20:00-23:00）
 
 #### ダウンタウン LA のパブ巡り
 
-- Universal CityWalk から Uber でダウンタウン LA へ（約 30 分、$25-30）
+- ホール・フーズ・マーケットから Uber でダウンタウン LA へ（約 30 分、$25-30）
 - おすすめパブ：
   - クラフト＆バイン（Craft & Vine）
     - クラフトビールとワインが充実
@@ -164,15 +216,19 @@
   - ライブミュージック鑑賞（開催日による）
 - 周辺のおすすめスポット：
   - ダウンタウン LA の夜景
+    - 参考 URL: https://www.discoverlosangeles.com/things-to-do/downtown-los-angeles
   - グランドセントラルマーケット（フードコート）
+    - 参考 URL: https://grandcentralmarket.com/
   - リトルトーキョー（日本食）
+    - 参考 URL: https://little.tokyo/
 - 予算：$40-50/人
 
-### 帰着（22:00-23:00）
+### 帰着（23:00-24:00）
 
 #### ウェスティンボナベンチャーホテル
 
-- ダウンタウン LA から Uber でウェスティンボナベンチャーホテルへ（約 10 分、$10-15）
+- ダウンタウン LA から Uber でウェスティンボナベンチャーホテルへ（約 15 分、$15-20）
+- 参考 URL: https://www.marriott.com/hotels/travel/laxwb-westin-bonaventure-hotel-and-suites-los-angeles/
 
 ## 持ち物リスト
 
@@ -185,6 +241,7 @@
 - 軽い上着（夕方用）
 - ビーチタオル
 - 水着（必要に応じて）
+- 予約確認書（スタジオツアー用）
 
 ## 注意事項
 
@@ -194,4 +251,30 @@
 - パブ巡りは適度に楽しみ、深夜の移動は避けることをお勧めします
 - 日没時間を確認して、サンセットの時間に合わせて調整可能
 - Hello Kitty and Friends Cafe & Sanrio Smile Shop は人気店のため、事前予約を推奨します
-- ユニバーサルスタジオハリウッドのスタジオツアーは事前予約が必須です
+- ユニバーサルスタジオハリウッドのスタジオツアーは事前予約が必須です（2 週間前から予約可能）
+
+## 天候が悪い場合の代替プラン
+
+### サンタモニカビーチの代替案
+
+- サンタモニカプレイス（屋内ショッピングモール）
+  - 参考 URL: https://www.santamonicaplace.com/
+- サンタモニカピア（屋内施設あり）
+  - 参考 URL: https://www.santamonicapier.org/
+- サンタモニカ美術館
+  - 参考 URL: https://www.smmoa.org/
+
+### ファーマーズマーケットの代替案
+
+- サンタモニカのカフェ
+  - 参考 URL: https://www.yelp.com/search?find_desc=Cafes&find_loc=Santa+Monica%2C+CA
+- ホールフーズマーケット（朝食メニューあり）
+  - 参考 URL: https://www.wholefoodsmarket.com/
+
+### 移動手段の代替案
+
+- メトロ（公共交通機関）
+  - 参考 URL: https://www.metro.net/
+- タクシー
+- レンタカー（事前予約推奨）
+  - 参考 URL: https://www.rentacar.com/
