@@ -223,18 +223,114 @@ h1 {
 }
 
 @media (max-width: 768px) {
-    .schedule-container {
-        grid-template-columns: 1fr;
-    }
-    
     .container {
         padding: 10px;
     }
     
+    .schedule-container {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+
+    .current-time {
+        font-size: 1.8em;
+        padding: 12px;
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .current-time::before {
+        width: 24px;
+        height: 24px;
+    }
+
+    .current-time span:first-of-type {
+        font-size: 1em;
+    }
+
+    .current-time span:last-of-type {
+        font-size: 0.75em;
+    }
+
+    .activity-card {
+        padding: 15px;
+        flex-direction: column;
+    }
+
+    .activity-content {
+        width: 100%;
+    }
+
+    .activity-details {
+        margin-top: 10px;
+        padding: 8px;
+        font-size: 0.9em;
+        word-break: break-word;
+    }
+
+    .timeline-item {
+        flex-direction: column;
+        padding: 15px 15px 15px 20px;
+        margin-bottom: 15px;
+    }
+
+    .timeline-time {
+        min-width: auto;
+        margin-bottom: 5px;
+        font-size: 0.9em;
+    }
+
+    .timeline-content {
+        margin-left: 0;
+        width: 100%;
+    }
+
     .toggle-details-button {
         position: static;
-        display: block;
-        margin-top: 10px;
         width: 100%;
+        margin-top: 10px;
+        padding: 8px;
+    }
+
+    h1 {
+        font-size: 1.5em;
+        margin-bottom: 15px;
+    }
+
+    h3 {
+        font-size: 1.2em;
+        margin-bottom: 8px;
+    }
+
+    .activity-tips {
+        font-size: 0.9em;
+    }
+}
+
+@media (max-width: 480px) {
+    .current-time {
+        font-size: 1.5em;
+        padding: 10px;
+    }
+
+    .activity-card {
+        padding: 12px;
+    }
+
+    .timeline-item {
+        padding: 12px 12px 12px 15px;
+    }
+
+    .activity-details {
+        padding: 6px;
+        font-size: 0.85em;
+    }
+
+    h1 {
+        font-size: 1.3em;
+    }
+
+    h3 {
+        font-size: 1.1em;
     }
 } 
