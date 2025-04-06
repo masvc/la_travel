@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LAトラベル スケジュールトラッカー</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>プランD：早朝ビーチ＋ユニバーサルスタジオ体験プラン</h1>
+        <div class="current-time">
+          <span id="current-time">00:00:00</span>
+        </div>
+      </header>
+
+      <main>
+        <div class="schedule-container">
+          <div class="current-activity">
+            <h2>現在のアクティビティ</h2>
+            <div class="activity-card" id="current-activity">
+              <div class="activity-icon">
+                <svg width="24" height="24" viewBox="0 0 24 24">
+                  <path
+                    d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm.5-13h-1v6l5.25 3.15.75-1.23-4.5-2.67z"
+                  />
+                </svg>
+              </div>
+              <div class="activity-content">
+                <h3 id="current-title">準備中</h3>
+                <p id="current-description">
+                  スケジュールを開始する準備をしています
+                </p>
+                <button class="details-button" id="current-details-button">
+                  詳細を見る
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <div class="next-activity">
+            <h2>次のアクティビティ</h2>
+            <div class="activity-card" id="next-activity">
+              <div class="activity-icon">
+                <svg width="24" height="24" viewBox="0 0 24 24">
+                  <path
+                    d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm.5-13h-1v6l5.25 3.15.75-1.23-4.5-2.67z"
+                  />
+                </svg>
+              </div>
+              <div class="activity-content">
+                <h3 id="next-title">準備中</h3>
+                <p id="next-description">
+                  次のアクティビティの準備をしています
+                </p>
+                <button class="details-button" id="next-details-button">
+                  詳細を見る
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="timeline">
+          <h2>タイムライン</h2>
+          <div class="timeline-container" id="timeline-container">
+            <!-- タイムラインはJavaScriptで動的に生成されます -->
+          </div>
+        </div>
+      </main>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
